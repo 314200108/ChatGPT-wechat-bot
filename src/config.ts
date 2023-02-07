@@ -1,13 +1,13 @@
 export default {
-  // 填入你的session token
+  // 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
   OPENAI_API_KEY: '',
   // 设置获取消息的重试次数
   retryTimes: 3,
-  // 在群组中设置唤醒微信机器人的关键词
+  // 小明同学
   groupKey: '',
-  // 在私聊中设置唤醒微信机器人的关键词
+  // 小明同学
   privateKey: '',
-  // 重置上下文的关键词，如可设置为reset
+  // 重置
   resetKey: 'reset',
   // 开启会后收到ChatGPT的自动回复
   autoReply: true,
